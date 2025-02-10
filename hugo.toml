@@ -21,8 +21,8 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am an Belgium living and working in London for CyberArk with a focus on Workload Identity, SPIFFE and SPIRE.
-I am interested in a wide rang of topics, including Software Engineering, Kubernetes, Cloud-Native, Software Supply Chain Security and Workload Identity.
+I’m a Belgian based in London, working at CyberArk with a focus on Workload Identity, SPIFFE, and SPIRE.
+My interests span a wide range of topics, including Software Engineering, Kubernetes, Cloud-Native technologies, Software Supply Chain Security, and Workload Identity.
 """
 
 # Collection to display on home
