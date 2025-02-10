@@ -9,9 +9,15 @@
 
     <div>
         <p class="line-title">
+            {{ if .Params.external_link }}
+            <a href="{{ .Params.external_link }}" target="_blank" rel="noopener noreferrer">
+                {{ .Title }}
+            </a>
+            {{ else }}
             <a href="{{ .RelPermalink }}">
                 {{ .Title }}
             </a>
+            {{ end }}
         </p>
 
         {{ if .Site.Params.listSummaries }}
