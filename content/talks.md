@@ -6,7 +6,7 @@
   > Solving ‘secret zero’, why you should care about SPIFFE!
 * Rejekts Kubecon NA Salt Lake City: [Recording](https://www.youtube.com/watch?v=ljS9vqgPtQg)
   > SPIFFE runs in the cloud, but can it run on my laptop?
-* [Machine Identity Summit Boston](https://mimsummit2024.sched.com/event/1lZJO/pki-makeover-how-firefly-helps-you-leave-behind-30-years-of-technical-debt)
+* [Machine Identity Summit Boston](https://mimsummit2024.sched.com/event/1lZJO/pki-makeover-how-firefly-helps-you-leave-behind-30-years-of-technical-debt): [Recording](https://venafi.com/summit/2024/pki-makeover/)
   > PKI Makeover: How Firefly Helps You Leave Behind 30+ Years of Technical Debt
 * Venafi Customer Forums
   > Solving ‘secret zero’, why you should care about SPIFFE!
