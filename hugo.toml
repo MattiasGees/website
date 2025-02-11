@@ -50,7 +50,6 @@ url = "https://github.com/MattiasGees"
 name = "bluesky"
 url = "https://bsky.app/profile/mattiasgees.bsky.social"
 
-
 # Main menu pages
 [[params.menu]]
 name = "home"
