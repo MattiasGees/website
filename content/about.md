@@ -1,6 +1,7 @@
 # About
 
-Hi, My name is Mattias Gees and I am an open-source and Kubernetes enthousiast. I work and live in London.
+Hi, My name is Mattias Gees. I’m a Belgian based in London, working as a Director of Technology at CyberArk with a focus on Workload Identity, SPIFFE, and SPIRE.
+My interests span a wide range of topics, including Software Engineering, Kubernetes, Cloud-Native technologies, Software Supply Chain Security, and Workload Identity.
 
 ## Bio
 
