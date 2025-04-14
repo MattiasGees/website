@@ -1,5 +1,16 @@
 # Talks
 
+## 2025
+
+* [DevSecOps meetup London](https://www.meetup.com/devsecops-london-gathering/events/305462000/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+  > Workload Identity in the AI Era
+* [CyberArk Impact 2025 Boston](https://reg.impact.cyberark.com/flow/cyberevents/ius25/sessionCatalog/page/catalog/session/1734095554923001HJkO)
+  > Workload Identities: Why They Matter as Much as User Identities
+* [CyberArk Impact 2025 Boston](https://reg.impact.cyberark.com/flow/cyberevents/ius25/sessionCatalog/page/catalog/session/1733877609050001OtEy)
+  > Securing Identity on Kubernetes: Best Practices for User and Machine Identities
+* [Workload Identity Day Zero Event](https://lp.cyberark.com/cyberark-identity-day-zero-registration.html)
+  > Organiser of a KubeCon sponsored co-located event
+
 ## 2024
 
 * Workload Identity Day Zero Kubecon NA Salt Lake City
