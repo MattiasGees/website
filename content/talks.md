@@ -2,6 +2,8 @@
 
 ## 2025
 
+* [Gitguardian Webinar](https://app.livestorm.co/gitguardian/who-leaked-the-admin-api-key?utm_source=Livestorm+company+page)
+  > "Who Leaked the Admin API Key?" And Other Non-Human Identities Nightmares
 * [DevSecOps meetup London](https://www.meetup.com/devsecops-london-gathering/events/305462000/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
   > Workload Identity in the AI Era
 * [CyberArk Impact 2025 Boston](https://reg.impact.cyberark.com/flow/cyberevents/ius25/sessionCatalog/page/catalog/session/1734095554923001HJkO)
