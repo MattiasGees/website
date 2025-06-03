@@ -18,5 +18,5 @@ tags:
   - SPIRE
 showTags: false
 hideBackToTop: false
-external_link: https://venafi.com/blog/can-spiffe-solve-the-secret-zero-problem/
+external_link: https://developer.cyberark.com/blog/can-spiffe-solve-the-secret-zero-problem/
 ---
